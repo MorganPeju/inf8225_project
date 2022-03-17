@@ -1,4 +1,4 @@
-# Project (INF8225 - Probabilistic AI)
+# Project (INF8225 - AI)
 
 ### Team
 - Renaud Lespérance
